@@ -49,7 +49,8 @@ This project analyzes shopping behavior using a dataset of 3,900 customers. The 
 
 ### 🎨 Colors, 📏 Sizes, and 📍 Locations
 - **Unique Colors:** 25  
-- **Unique Sizes:** 4 
+- **Unique Sizes:** 4
+   
 **Top 2 Sizes**
 **M**    1755
 **L**    1053 
@@ -65,8 +66,8 @@ This project analyzes shopping behavior using a dataset of 3,900 customers. The 
 
 ### 📬 Subscription & Discounts
 - **Subscription Status:** 
-- ** No**      2847
-- **  Yes**     1053
+- **No**      2847
+- **Yes**     1053
 
 ---
 
