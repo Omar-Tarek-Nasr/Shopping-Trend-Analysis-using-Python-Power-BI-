@@ -52,8 +52,11 @@ This project analyzes shopping behavior using a dataset of 3,900 customers. The 
 - **Unique Sizes:** 4
    
 **Top 2 Sizes**
+
 **M**    1755
+
 **L**    1053 
+
 - **Unique Locations:** 50  
 
 ---
