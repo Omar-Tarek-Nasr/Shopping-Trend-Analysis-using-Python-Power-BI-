@@ -43,7 +43,7 @@ This project analyzes shopping behavior using a dataset of 3,900 customers. The 
 ---
 
 ### 💰 Purchase Overview
-- **Total Purchase Amount (USD):**  : **$233,081**  
+- **Total Purchase Amount (USD)**  : **$233,081**  
 
 ---
 
