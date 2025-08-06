@@ -1,6 +1,7 @@
 # Shopping-Trend-Analysis-using-Python-Power-BI-
 Shopping Trend Analysis using Python &amp; Power BI 🛒📈— with full code on Kaggle and interactive insights via dashboard.
 # 🛍️ Shopping Trend Analysis
+<img width="1443" height="796" alt="P1" src="https://github.com/user-attachments/assets/53f4d63d-6693-42f4-9c3a-2476e79bc8d4" />
 
 This project analyzes shopping behavior using a dataset of 3,900 customers. The goal is to uncover trends in purchasing patterns, customer demographics, product preferences, and other factors that impact consumer behavior.
 
